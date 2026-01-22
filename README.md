@@ -1,4 +1,4 @@
-<!-- doc ver 1.0.1 -->
+<!-- doc ver 1.1.1 -->
 # TAK-NAPS-ICONSET
 ATAK &amp; WinTAK Iconset from The National Alliance for Public Safety in collaboration with DHS
 <!-- Rradme Version 1.0 -->
@@ -21,9 +21,8 @@ Official Site: [National Alliance for Public Safety - Geographic Information Sys
 - [ ] Create 64px version for larger displays
 - [ ] Create XML files for each iconset
 - [ ] Include documentation from NAPSG relevant to icon use
-
+<!--
 #### CONTACT
-dsec_0x00@protonmail.com
-
+-->
 <!-- add link to YouTube creator who published the information on this source, a gif and link to a guide on importing iconsets, links to other iconsets and github TAK resources -->
 
