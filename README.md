@@ -17,10 +17,6 @@ Official Site: [National Alliance for Public Safety - Geographic Information Sys
 - Files renamed to legible text for map reading
 - UID added
 
-##### Updates To-Do
-- [ ] Create 64px version for larger displays
-- [ ] Create XML files for each iconset
-- [ ] Include documentation from NAPSG relevant to icon use
 <!--
 #### CONTACT
 -->
